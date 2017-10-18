@@ -7,7 +7,8 @@
 
 ## Quickstart
 
-Requires [Jupyter](http://jupyter.org/) to run the notebook.
+   * Requires [ipyparallel](https://github.com/ipython/ipyparallel) for parallel execution.
+   * Requires [Jupyter](http://jupyter.org/) to run the notebook.
 
 ```
 git clone http://github.com/emaadmanzoor/rush/
