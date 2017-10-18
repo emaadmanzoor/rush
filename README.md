@@ -7,8 +7,12 @@
 
 ## Quickstart
 
+Requires [Jupyter](http://jupyter.org/) to run the notebook.
+
 ```
-TODO
+git clone http://github.com/emaadmanzoor/rush/
+cd rush
+jupyter notebook
 ```
 
 ## Contact
