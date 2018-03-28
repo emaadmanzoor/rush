@@ -10,7 +10,7 @@
    * Requires [Jupyter](http://jupyter.org/) to run the notebook.
    * Requires the following packages:
 ```
-numpy scipy pandas scikit-learn ipyparallel statsmodels
+numpy scipy pandas scikit-learn statsmodels
 ```
 
 ## Contact
