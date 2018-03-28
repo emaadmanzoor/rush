@@ -5,15 +5,12 @@
 > Emaad Manzoor and Leman Akoglu.  RUSH! Targeted Time-limited Coupons via Purchase Forecasts.
 > In *23rd ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD).* 2017.
 
-## Quickstart
+## Requirements
 
-   * Requires [ipyparallel](https://github.com/ipython/ipyparallel) for parallel execution.
    * Requires [Jupyter](http://jupyter.org/) to run the notebook.
-
+   * Requires the following packages:
 ```
-git clone http://github.com/emaadmanzoor/rush/
-cd rush
-jupyter notebook
+numpy scipy pandas scikit-learn ipyparallel statsmodels
 ```
 
 ## Contact
